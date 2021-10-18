@@ -1,8 +1,4 @@
 ### Olá! Eu sou Caroline Araujo
-
-- 🔭 Faço faculdade de Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando HTML, CSS E JS
-- 😄 Pronouns: ela/dela
 ##
 <div align="center">
   <a href="https://github.com/caroline747">
