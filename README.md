@@ -5,6 +5,8 @@ Sou a Carol, tenho 27 anos e sou apaixonada por tecnologia.
 
 🔭 Atualmente estou na turma 8 da Oracle Next Education.
 
+🌱 Aprendendo mais sobre {JavaScript}.
+
 💬 Se voce tiver alguma duvida ou quiser conversar pode me mandar uma mensagem 💜 [https://www.linkedin.com/in/caroline747/]
 
 ## 🚀 Minhas Skills
@@ -13,6 +15,14 @@ Sou a Carol, tenho 27 anos e sou apaixonada por tecnologia.
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 <div align="center">
   <a href="https://github.com/caroline747">
