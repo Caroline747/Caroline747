@@ -3,7 +3,7 @@
 
 Sou a Carol, tenho 27 anos e sou apaixonada por tecnologia.
 
-🔭 Atualmente estou na turma 8 da Oracle Next Education.
+🔭 Atualmente estou na turma 8 da Oracle Next Education e Fron End na Campinho Digital.
 
 🌱 Aprendendo mais sobre {JavaScript}.
 
