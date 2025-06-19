@@ -1,9 +1,9 @@
 
 ## 💜 Olá! Eu sou Caroline Araujo!
 
-Sou a Carol, tenho 27 anos e sou apaixonada por tecnologia.
+Sou a Carol, tenho 28 anos e sou apaixonada por tecnologia.
 
-🔭 Atualmente estou na turma 8 da Oracle Next Education e Fron End na Campinho Digital.
+🔭 Atualmente estou fazendo o curso de Fron End na Campinho Digital.
 
 🌱 Aprendendo mais sobre {JavaScript}.
 
