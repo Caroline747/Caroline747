@@ -29,6 +29,11 @@ Sou a Carol, tenho 28 anos e sou apaixonada por tecnologia.
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva&logoColor=007ACC)
 ![Elementor](https://img.shields.io/badge/-Elementor-333333?style=flat&logo=elementor&logoColor=007ACC)
+![Powershell](https://img.shields.io/badge/-Powershell-333333?style=flat&logo=powershell&logoColor=007ACC)
+![Git bash](https://img.shields.io/badge/-Git%20Bash-333333?style=flat&logo=git-bash&logoColor=007ACC)
+![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel&logoColor=FF6C37)
+
+
 
 
 
