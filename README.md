@@ -1,9 +1,9 @@
 
-## 💜 Olá! Eu sou Caroline Araujo!
+## 💜 Olá! Eu sou Caroline Araújo!
 
 Sou a Carol, tenho 28 anos e sou apaixonada por tecnologia.
 
-🔭 Atualmente estou fazendo o curso de Fron End na Campinho Digital.
+🔭 Atualmente estou fazendo o curso de Front End na Campinho Digital.
 
 🌱 Aprendendo mais sobre {JavaScript}.
 
@@ -14,6 +14,11 @@ Sou a Carol, tenho 28 anos e sou apaixonada por tecnologia.
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" alt="Wordpress"/></code>
+
+
 
 **Ferramentas de desenvolvimento**
 
@@ -22,6 +27,10 @@ Sou a Carol, tenho 28 anos e sou apaixonada por tecnologia.
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva&logoColor=007ACC)
+![Elementor](https://img.shields.io/badge/-Elementor-333333?style=flat&logo=elementor&logoColor=007ACC)
+
+
 
 <div align="center">
   <a href="https://github.com/caroline747">
