@@ -9,7 +9,7 @@ Sou a Carol, tenho 28 anos e sou apaixonada por tecnologia.
 
 💬 Se voce tiver alguma duvida ou quiser conversar pode me mandar uma mensagem 💜 [https://www.linkedin.com/in/caroline747/]
 
-## 🚀 Minhas Skills
+## 🚀 Tecnologias
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -34,23 +34,6 @@ Sou a Carol, tenho 28 anos e sou apaixonada por tecnologia.
 </div>
 
 ###
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva&logoColor=007ACC)
-![Elementor](https://img.shields.io/badge/-Elementor-333333?style=flat&logo=elementor&logoColor=007ACC)
-![Powershell](https://img.shields.io/badge/-Powershell-333333?style=flat&logo=powershell&logoColor=007ACC)
-![Git bash](https://img.shields.io/badge/-Git%20Bash-333333?style=flat&logo=git-bash&logoColor=007ACC)
-![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel&logoColor=FF6C37)
-
-
-
-
 
 <div align="center">
   <a href="https://github.com/caroline747">
