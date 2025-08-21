@@ -56,4 +56,6 @@ Sou a Carol, tenho 28 anos e sou apaixonada por tecnologia.
 
 <img src="https://raw.githubusercontent.com/Caroline747/Caroline747/output/snake.svg" alt="Snake animation" />
 
+###
+
 </div>
