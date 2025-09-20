@@ -1,11 +1,9 @@
 
 ## 💜 Olá! Eu sou Caroline Araújo!
 
-Sou a Carol, tenho 28 anos e sou apaixonada por tecnologia.
+Tenho 28 anos e sou apaixonada por tecnologia.
 
-🔭 Atualmente estou fazendo o curso de Front End na Campinho Digital.
-
-🌱 Aprendendo mais sobre {JavaScript}.
+🌱 Aprendendo mais sobre JavaScript e PHP.
 
 💬 Se voce tiver alguma duvida ou quiser conversar pode me mandar uma mensagem 💜 [https://www.linkedin.com/in/caroline747/]
 
