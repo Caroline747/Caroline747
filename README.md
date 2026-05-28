@@ -1,7 +1,7 @@
 
 ## 💜 Olá! Eu sou Caroline Araújo!
 
-Tenho 28 anos e sou apaixonada por tecnologia.
+Tenho 29 anos e sou apaixonada por tecnologia.
 
 🌱 Aprendendo mais sobre JavaScript e PHP.
 
