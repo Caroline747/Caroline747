@@ -57,11 +57,6 @@ Tenho 29 anos e sou apaixonada por tecnologia.
 
 ###
 
-<div align="center">
-  <a href="https://github.com/caroline747">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=caroline747&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroline747&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="right" alt="Carol-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/4066556e45cf85472dd230c51e110bec.gif">
 </div>
